@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/NeilWong/hackuci-2019/master/images/jobbuddy.png" alt="Job Buddy" title="Job Buddy" width="440"/>
 </p>
 
-Hack UCI 2019 chrome exntesion that automatically saves details about jobs you apply to for future reference.
+Hack UCI 2019 chrome extension that automatically saves details about jobs you apply to for future reference.
 
 
 ## Inspiration
